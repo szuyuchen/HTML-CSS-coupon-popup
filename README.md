@@ -2,7 +2,7 @@
 
 ### Purpose:
 
-Use HTML and CSS and JavaScript to create a popup advertisement.
+Use HTML, CSS, JavaScript to create a popup advertisement.
 
 <img src="" width=400>
 
