@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.coupon-container .close {
+  color:#313131;
+  width: 30px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.coupon-container {
+  position: relative;
+  font-family: 'Lato', sans-serif;
+  max-width: 500px;
+  text-align: center;
+  background: #fbddea;
+  margin: 250px auto 30px auto;
+}
+
+.coupon-container h1,
+.coupon-container p,
+.coupon-container .discount,
+.coupon-container .code,
+.coupon-container .btn {
+  position: relative;
+}
+
+.coupon-container h1 {
+  font-size: 55px;
+  font-weight: 900;
+  color: #313131;
+  padding-top: 40px;
+}
+
+.coupon-container p {
+  font-size: 17px;
+  color: #313131;
+  margin: 25px;
+}
+
+.coupon-container .discount {
+  font-size: 80px;
+  font-weight: 700;
+  color: #e20d70;
+}
+
+.coupon-container .code {
+  font-size: 35px;
+  font-weight: 700;
+  color: #313131;
+}
+
+.coupon-container .btn {
+  font-size: 20px;
+  font-weight: 400;
+  background: #e20d70;
+  padding: 20px;
+  display: inline-block;
+  width: 100%;
+  color: #fff;
+  text-decoration: none;
+  box-sizing: border-box;
+  margin-top: 20px;
+  transition: all 300ms ease;
+}
+
+.coupon-container .btn:hover {
+  background: #fc0076;
+}
