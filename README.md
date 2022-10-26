@@ -4,7 +4,7 @@
 
 Use HTML, CSS, JavaScript to create a popup advertisement.
 
-<img src="" width=400>
+<img src="https://github.com/szuyuchen/HTML-CSS-coupon-popup/blob/main/sample-image.png?raw=true" width=400>
 
 ### Page link:
 
